@@ -1,0 +1,13 @@
+C:\Users\MK\Desktop\EditorArabic\pp\pp\bin\Release\pp.exe.config
+C:\Users\MK\Desktop\EditorArabic\pp\pp\bin\Release\pp.exe
+C:\Users\MK\Desktop\EditorArabic\pp\pp\bin\Release\pp.pdb
+C:\Users\MK\Desktop\EditorArabic\pp\pp\bin\Release\Antlr4.Runtime.Standard.dll
+C:\Users\MK\Desktop\EditorArabic\pp\pp\bin\Release\Krypton.Toolkit.dll
+C:\Users\MK\Desktop\EditorArabic\pp\pp\bin\Release\Antlr4.Runtime.Standard.xml
+C:\Users\MK\Desktop\EditorArabic\pp\pp\bin\Release\Krypton.Toolkit.xml
+C:\Users\MK\Desktop\EditorArabic\pp\pp\obj\Release\pp.Form1.resources
+C:\Users\MK\Desktop\EditorArabic\pp\pp\obj\Release\pp.Properties.Resources.resources
+C:\Users\MK\Desktop\EditorArabic\pp\pp\obj\Release\pp.csproj.GenerateResource.Cache
+C:\Users\MK\Desktop\EditorArabic\pp\pp\obj\Release\pp.exe
+C:\Users\MK\Desktop\EditorArabic\pp\pp\obj\Release\pp.pdb
+C:\Users\MK\Desktop\EditorArabic\pp\pp\obj\Release\pp.csprojResolveAssemblyReference.cache

@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{D9A19DBD-38B2-4463-8FB3-75033EA245A4}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>pp</RootNamespace>
+    <AssemblyName>pp</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Antlr4.Runtime.Standard">
+      <HintPath>..\..\..\..\Documents\Visual Studio 2015\Projects\Editor\packages\Antlr4.Runtime.Standard.4.7.2\lib\net35\Antlr4.Runtime.Standard.dll</HintPath>
+    </Reference>
+    <Reference Include="Krypton.Toolkit, Version=95.25.10.293, Culture=neutral, PublicKeyToken=a87e673e9ecb6e8e, processorArchitecture=MSIL">
+      <HintPath>..\packages\Krypton.Toolkit.95.25.10.293\lib\net472\Krypton.Toolkit.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ArabicLangBaseListener.cs" />
+    <Compile Include="ArabicLangBaseVisitor.cs" />
+    <Compile Include="ArabicLangLexer.cs" />
+    <Compile Include="ArabicLangListener.cs" />
+    <Compile Include="ArabicLangParser.cs" />
+    <Compile Include="ArabicLangVisitor.cs" />
+    <Compile Include="CCodeGenerator.cs" />
+    <Compile Include="CodeOptimizer.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IntermediateCodeGenerator.cs" />
+    <Compile Include="IntermediateCodeViewerForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IntermediateCodeViewerForm.Designer.cs">
+      <DependentUpon>IntermediateCodeViewerForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KryptonPage.cs" />
+    <Compile Include="MyErrorListener.cs" />
+    <Compile Include="MyLanguageCompiler.cs" />
+    <Compile Include="MyLanguageVisitor.cs" />
+    <Compile Include="MySemanticAnalyzer.cs" />
+    <Compile Include="OptimizationViewerForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OptimizationViewerForm.Designer.cs">
+      <DependentUpon>OptimizationViewerForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ParseTreeViewerForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SemanticViewerForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SemanticViewerForm.Designer.cs">
+      <DependentUpon>SemanticViewerForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TargetCodeGenerator.cs" />
+    <Compile Include="TargetCodeViewerForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TargetCodeViewerForm.Designer.cs">
+      <DependentUpon>TargetCodeViewerForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TokenViewerForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

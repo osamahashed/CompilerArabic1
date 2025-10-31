@@ -1,0 +1,49 @@
+C:\Users\الحاشدي\source\repos\pp\pp\bin\Debug\pp.exe.config
+C:\Users\الحاشدي\source\repos\pp\pp\bin\Debug\pp.exe
+C:\Users\الحاشدي\source\repos\pp\pp\bin\Debug\pp.pdb
+C:\Users\الحاشدي\source\repos\pp\pp\obj\Debug\pp.csprojAssemblyReference.cache
+C:\Users\الحاشدي\source\repos\pp\pp\obj\Debug\pp.Form1.resources
+C:\Users\الحاشدي\source\repos\pp\pp\obj\Debug\pp.Properties.Resources.resources
+C:\Users\الحاشدي\source\repos\pp\pp\obj\Debug\pp.csproj.GenerateResource.cache
+C:\Users\الحاشدي\source\repos\pp\pp\obj\Debug\pp.csproj.CoreCompileInputs.cache
+C:\Users\الحاشدي\source\repos\pp\pp\obj\Debug\pp.exe
+C:\Users\الحاشدي\source\repos\pp\pp\obj\Debug\pp.pdb
+C:\Users\MK\Desktop\مجلد جديد\pp\pp\bin\Debug\pp.exe.config
+C:\Users\MK\Desktop\مجلد جديد\pp\pp\obj\Debug\pp.exe
+C:\Users\MK\Desktop\مجلد جديد\pp\pp\obj\Debug\pp.pdb
+C:\Users\MK\Desktop\مجلد جديد\pp\pp\obj\Debug\pp.Form1.resources
+C:\Users\MK\Desktop\مجلد جديد\pp\pp\obj\Debug\pp.Properties.Resources.resources
+C:\Users\MK\Desktop\مجلد جديد\pp\pp\obj\Debug\pp.csproj.GenerateResource.Cache
+C:\Users\MK\Desktop\مجلد جديد\pp\pp\bin\Debug\pp.exe
+C:\Users\MK\Desktop\مجلد جديد\pp\pp\bin\Debug\pp.pdb
+C:\Users\MK\Desktop\مجلد جديد\pp\pp\bin\Debug\Krypton.Toolkit.dll
+C:\Users\MK\Desktop\مجلد جديد\pp\pp\bin\Debug\Krypton.Toolkit.xml
+C:\Users\MK\Desktop\مجلد جديد\pp\pp\bin\Debug\Antlr4.Runtime.Standard.dll
+C:\Users\MK\Desktop\مجلد جديد\pp\pp\bin\Debug\Antlr4.Runtime.Standard.xml
+C:\Users\MK\Desktop\مجلد جديد\pp\pp\obj\Debug\pp.csprojResolveAssemblyReference.cache
+C:\Users\MK\Desktop\المشروع النهائي لدكتور خالد الكحسة\pp\pp\bin\Debug\pp.exe.config
+C:\Users\MK\Desktop\المشروع النهائي لدكتور خالد الكحسة\pp\pp\bin\Debug\pp.exe
+C:\Users\MK\Desktop\المشروع النهائي لدكتور خالد الكحسة\pp\pp\bin\Debug\pp.pdb
+C:\Users\MK\Desktop\المشروع النهائي لدكتور خالد الكحسة\pp\pp\bin\Debug\Antlr4.Runtime.Standard.dll
+C:\Users\MK\Desktop\المشروع النهائي لدكتور خالد الكحسة\pp\pp\bin\Debug\Krypton.Toolkit.dll
+C:\Users\MK\Desktop\المشروع النهائي لدكتور خالد الكحسة\pp\pp\bin\Debug\Antlr4.Runtime.Standard.xml
+C:\Users\MK\Desktop\المشروع النهائي لدكتور خالد الكحسة\pp\pp\bin\Debug\Krypton.Toolkit.xml
+C:\Users\MK\Desktop\المشروع النهائي لدكتور خالد الكحسة\pp\pp\obj\Debug\pp.csprojResolveAssemblyReference.cache
+C:\Users\MK\Desktop\المشروع النهائي لدكتور خالد الكحسة\pp\pp\obj\Debug\pp.Form1.resources
+C:\Users\MK\Desktop\المشروع النهائي لدكتور خالد الكحسة\pp\pp\obj\Debug\pp.Properties.Resources.resources
+C:\Users\MK\Desktop\المشروع النهائي لدكتور خالد الكحسة\pp\pp\obj\Debug\pp.csproj.GenerateResource.Cache
+C:\Users\MK\Desktop\المشروع النهائي لدكتور خالد الكحسة\pp\pp\obj\Debug\pp.exe
+C:\Users\MK\Desktop\المشروع النهائي لدكتور خالد الكحسة\pp\pp\obj\Debug\pp.pdb
+C:\Users\MK\Desktop\EditorArabic\pp\pp\bin\Debug\pp.exe.config
+C:\Users\MK\Desktop\EditorArabic\pp\pp\bin\Debug\pp.exe
+C:\Users\MK\Desktop\EditorArabic\pp\pp\bin\Debug\pp.pdb
+C:\Users\MK\Desktop\EditorArabic\pp\pp\bin\Debug\Antlr4.Runtime.Standard.dll
+C:\Users\MK\Desktop\EditorArabic\pp\pp\bin\Debug\Krypton.Toolkit.dll
+C:\Users\MK\Desktop\EditorArabic\pp\pp\bin\Debug\Antlr4.Runtime.Standard.xml
+C:\Users\MK\Desktop\EditorArabic\pp\pp\bin\Debug\Krypton.Toolkit.xml
+C:\Users\MK\Desktop\EditorArabic\pp\pp\obj\Debug\pp.csprojResolveAssemblyReference.cache
+C:\Users\MK\Desktop\EditorArabic\pp\pp\obj\Debug\pp.Form1.resources
+C:\Users\MK\Desktop\EditorArabic\pp\pp\obj\Debug\pp.Properties.Resources.resources
+C:\Users\MK\Desktop\EditorArabic\pp\pp\obj\Debug\pp.csproj.GenerateResource.Cache
+C:\Users\MK\Desktop\EditorArabic\pp\pp\obj\Debug\pp.exe
+C:\Users\MK\Desktop\EditorArabic\pp\pp\obj\Debug\pp.pdb
